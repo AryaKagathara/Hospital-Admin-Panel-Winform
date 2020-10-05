@@ -1,0 +1,67 @@
+C:\Users\Arya\Documents\Visual Studio 2019\Projects\Hospital\Hospital\bin\Debug\Hospital.exe.config
+C:\Users\Arya\Documents\Visual Studio 2019\Projects\Hospital\Hospital\bin\Debug\Hospital.exe
+C:\Users\Arya\Documents\Visual Studio 2019\Projects\Hospital\Hospital\bin\Debug\Hospital.pdb
+C:\Users\Arya\Documents\Visual Studio 2019\Projects\Hospital\Hospital\obj\Debug\Hospital.Form1.resources
+C:\Users\Arya\Documents\Visual Studio 2019\Projects\Hospital\Hospital\obj\Debug\Hospital.Properties.Resources.resources
+C:\Users\Arya\Documents\Visual Studio 2019\Projects\Hospital\Hospital\obj\Debug\Hospital.csproj.GenerateResource.cache
+C:\Users\Arya\Documents\Visual Studio 2019\Projects\Hospital\Hospital\obj\Debug\Hospital.exe
+C:\Users\Arya\Documents\Visual Studio 2019\Projects\Hospital\Hospital\obj\Debug\Hospital.pdb
+C:\Users\Arya\Documents\Visual Studio 2019\Projects\Hospital\Hospital\obj\Debug\Hospital.Form2.resources
+C:\Users\Arya\Documents\Visual Studio 2019\Projects\Hospital\Hospital\obj\Debug\Hospital.UserControl1.resources
+C:\Users\Arya\Documents\Visual Studio 2019\Projects\Hospital\Hospital\obj\Debug\Hospital.csprojAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2019\Hospital\Hospital\bin\Debug\Hospital.exe.config
+C:\Users\hp\Documents\Visual Studio 2019\Hospital\Hospital\bin\Debug\Hospital.exe
+C:\Users\hp\Documents\Visual Studio 2019\Hospital\Hospital\bin\Debug\Hospital.pdb
+C:\Users\hp\Documents\Visual Studio 2019\Hospital\Hospital\obj\Debug\Hospital.csprojAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2019\Hospital\Hospital\obj\Debug\Hospital.Form1.resources
+C:\Users\hp\Documents\Visual Studio 2019\Hospital\Hospital\obj\Debug\Hospital.Form2.resources
+C:\Users\hp\Documents\Visual Studio 2019\Hospital\Hospital\obj\Debug\Hospital.Properties.Resources.resources
+C:\Users\hp\Documents\Visual Studio 2019\Hospital\Hospital\obj\Debug\Hospital.UserControl1.resources
+C:\Users\hp\Documents\Visual Studio 2019\Hospital\Hospital\obj\Debug\Hospital.csproj.GenerateResource.cache
+C:\Users\hp\Documents\Visual Studio 2019\Hospital\Hospital\obj\Debug\Hospital.exe
+C:\Users\hp\Documents\Visual Studio 2019\Hospital\Hospital\obj\Debug\Hospital.pdb
+D:\DOCS_SEM6\OOSE\OOSE_PROJECT\Hospital\Hospital\bin\Debug\Hospital.exe.config
+D:\DOCS_SEM6\OOSE\OOSE_PROJECT\Hospital\Hospital\bin\Debug\Hospital.exe.manifest
+D:\DOCS_SEM6\OOSE\OOSE_PROJECT\Hospital\Hospital\bin\Debug\Hospital.application
+D:\DOCS_SEM6\OOSE\OOSE_PROJECT\Hospital\Hospital\bin\Debug\Hospital.exe
+D:\DOCS_SEM6\OOSE\OOSE_PROJECT\Hospital\Hospital\bin\Debug\Hospital.pdb
+D:\DOCS_SEM6\OOSE\OOSE_PROJECT\Hospital\Hospital\obj\Debug\Hospital.csprojAssemblyReference.cache
+D:\DOCS_SEM6\OOSE\OOSE_PROJECT\Hospital\Hospital\obj\Debug\Hospital.ManagerComponents.Inventory.resources
+D:\DOCS_SEM6\OOSE\OOSE_PROJECT\Hospital\Hospital\obj\Debug\Hospital.NurseComponents.Diet.resources
+D:\DOCS_SEM6\OOSE\OOSE_PROJECT\Hospital\Hospital\obj\Debug\Hospital.Manager.resources
+D:\DOCS_SEM6\OOSE\OOSE_PROJECT\Hospital\Hospital\obj\Debug\Hospital.ManagerComponents.AllUsers.resources
+D:\DOCS_SEM6\OOSE\OOSE_PROJECT\Hospital\Hospital\obj\Debug\Hospital.ManagerComponents.AttandanceManager.resources
+D:\DOCS_SEM6\OOSE\OOSE_PROJECT\Hospital\Hospital\obj\Debug\Hospital.Chemist.resources
+D:\DOCS_SEM6\OOSE\OOSE_PROJECT\Hospital\Hospital\obj\Debug\Hospital.CMedicine.resources
+D:\DOCS_SEM6\OOSE\OOSE_PROJECT\Hospital\Hospital\obj\Debug\Hospital.CPrescription.resources
+D:\DOCS_SEM6\OOSE\OOSE_PROJECT\Hospital\Hospital\obj\Debug\Hospital.DAppointment.resources
+D:\DOCS_SEM6\OOSE\OOSE_PROJECT\Hospital\Hospital\obj\Debug\Hospital.Doctor.resources
+D:\DOCS_SEM6\OOSE\OOSE_PROJECT\Hospital\Hospital\obj\Debug\Hospital.DPrescription.resources
+D:\DOCS_SEM6\OOSE\OOSE_PROJECT\Hospital\Hospital\obj\Debug\Hospital.Dreport.resources
+D:\DOCS_SEM6\OOSE\OOSE_PROJECT\Hospital\Hospital\obj\Debug\Hospital.Dtest.resources
+D:\DOCS_SEM6\OOSE\OOSE_PROJECT\Hospital\Hospital\obj\Debug\Hospital.UserControl1.resources
+D:\DOCS_SEM6\OOSE\OOSE_PROJECT\Hospital\Hospital\obj\Debug\Hospital.Laboratorian.resources
+D:\DOCS_SEM6\OOSE\OOSE_PROJECT\Hospital\Hospital\obj\Debug\Hospital.LInventory.resources
+D:\DOCS_SEM6\OOSE\OOSE_PROJECT\Hospital\Hospital\obj\Debug\Hospital.Login_Form.resources
+D:\DOCS_SEM6\OOSE\OOSE_PROJECT\Hospital\Hospital\obj\Debug\Hospital.LReport.resources
+D:\DOCS_SEM6\OOSE\OOSE_PROJECT\Hospital\Hospital\obj\Debug\Hospital.Properties.Resources.resources
+D:\DOCS_SEM6\OOSE\OOSE_PROJECT\Hospital\Hospital\obj\Debug\Hospital.UserForms.Nurse.resources
+D:\DOCS_SEM6\OOSE\OOSE_PROJECT\Hospital\Hospital\obj\Debug\Hospital.Receptionist.resources
+D:\DOCS_SEM6\OOSE\OOSE_PROJECT\Hospital\Hospital\obj\Debug\Hospital.RExPatient.resources
+D:\DOCS_SEM6\OOSE\OOSE_PROJECT\Hospital\Hospital\obj\Debug\Hospital.RPayment.resources
+D:\DOCS_SEM6\OOSE\OOSE_PROJECT\Hospital\Hospital\obj\Debug\Hospital.RRegister.resources
+D:\DOCS_SEM6\OOSE\OOSE_PROJECT\Hospital\Hospital\obj\Debug\Hospital.UserForms.WardManager.resources
+D:\DOCS_SEM6\OOSE\OOSE_PROJECT\Hospital\Hospital\obj\Debug\Hospital.csproj.GenerateResource.cache
+D:\DOCS_SEM6\OOSE\OOSE_PROJECT\Hospital\Hospital\obj\Debug\Hospital.exe.manifest
+D:\DOCS_SEM6\OOSE\OOSE_PROJECT\Hospital\Hospital\obj\Debug\Hospital.application
+D:\DOCS_SEM6\OOSE\OOSE_PROJECT\Hospital\Hospital\obj\Debug\Hospital.exe
+D:\DOCS_SEM6\OOSE\OOSE_PROJECT\Hospital\Hospital\obj\Debug\Hospital.pdb
+D:\DOCS_SEM6\OOSE\OOSE_PROJECT\Hospital\Hospital\obj\Debug\Hospital.WardManagerComponents.Assign.resources
+D:\DOCS_SEM6\OOSE\OOSE_PROJECT\Hospital\Hospital\obj\Debug\Hospital.WardManagerComponents.Wards.resources
+D:\DOCS_SEM6\OOSE\OOSE_PROJECT\Hospital\Hospital\obj\Debug\Hospital.UserForms.Admin.resources
+D:\DOCS_SEM6\OOSE\OOSE_PROJECT\Hospital\Hospital\obj\Debug\Hospital.AdminComponents.Hire.resources
+D:\DOCS_SEM6\OOSE\OOSE_PROJECT\Hospital\Hospital\obj\Debug\Hospital.AdminComponents.Account.resources
+D:\DOCS_SEM6\OOSE\OOSE_PROJECT\Hospital\Hospital\bin\Debug\DotLiquid.dll
+D:\DOCS_SEM6\OOSE\OOSE_PROJECT\Hospital\Hospital\bin\Debug\DotLiquid.xml
+D:\DOCS_SEM6\OOSE\OOSE_PROJECT\Hospital\Hospital\bin\Debug\it\DotLiquid.resources.dll
+D:\DOCS_SEM6\OOSE\OOSE_PROJECT\Hospital\Hospital\obj\Debug\Hospital.csproj.CopyComplete
